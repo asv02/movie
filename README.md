@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+in this project, I used react module to make the app and deploy it. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
